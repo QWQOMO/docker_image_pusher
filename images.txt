@@ -1,1 +1,1 @@
-nginx:perl
+ustclug/rocky:9
