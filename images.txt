@@ -1,1 +1,1 @@
-ustclug/rocky:9
+rockylinux:9.4-minimal
