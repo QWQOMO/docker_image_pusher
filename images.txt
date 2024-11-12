@@ -1,1 +1,1 @@
-rockylinux:9-minimal
+tomcat:9.0-jre8
